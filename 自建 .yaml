@@ -2,7 +2,7 @@
 # 机场订阅
 proxy-providers:
   Airport1:
-    url: "https://sud.140407.xyz/ouiw0lw7h3gx9fzmx/download/collection/yz-iot?target=ClashMeta"
+    url: "https://sud.00.xyz/ouiw0lw7h3gx9fzmx/download/collection/yz-iot?target=ClashMeta"
     type: http
     interval: 3600
     health-check:
