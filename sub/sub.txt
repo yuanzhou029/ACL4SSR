@@ -1,5 +1,5 @@
 #https://sub.fqzsnai.ggff.net/auto
-https://v1.mk/ifvZnYY
+https://v1.mk/zIjDzq6
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/all_configs.txt
 https://raw.githubusercontent.com/nyeinkokoaung404/V2ray-Configs/main/Splitted-By-Protocol/vless.txt
 #https://1821.nginx24ppy.xyz/link/kySLStKTpSimjajb?sub=3
