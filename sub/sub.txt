@@ -2,7 +2,8 @@
 https://v1.mk/ifvZnYY
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/all_configs.txt
 https://raw.githubusercontent.com/nyeinkokoaung404/V2ray-Configs/main/Splitted-By-Protocol/vless.txt
-https://1821.nginx24ppy.xyz/link/kySLStKTpSimjajb?sub=3
+#https://1821.nginx24ppy.xyz/link/kySLStKTpSimjajb?sub=3
+https://v1.mk/ENnoE24
 https://v1.mk/DW6xYsa
 #https://ys.jiedianxielou.workers.dev
 http://43.207.145.186:8080/clash/proxies
