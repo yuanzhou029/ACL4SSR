@@ -8,4 +8,6 @@ https://v1.mk/DW6xYsa
 http://43.207.145.186:8080/clash/proxies
 https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.meta.yml
 https://raw.githubusercontent.com/xiaoji235/airport-free/refs/heads/main/v2ray.txt
-https://url.v1.mk/sub?target=clash&url=https%3A%2F%2Fzh.momobaby.org%2Fdownload%2Fclash%2F61f7c2b868d31d70b3031a6ebe58430f76ec0b5f396851967fc8edf3ce7d898d%3Fconfig_name%3DLiNigori369&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2Fcmliu%2FACL4SSR%2Fmain%2FClash%2Fconfig%2FACL4SSR_Online.ini&emoji=true&list=false&xudp=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&new_name=true
+#https://zh.momobaby.org/download/clash/61f7c2b868d31d70b3031a6ebe58430f76ec0b5f396851967fc8edf3ce7d898d?config_name=LiNigori369
+https://url.v1.mk/sub?
+target=clash&url=https%3A%2F%2Fzh.momobaby.org%2Fdownload%2Fclash%2F61f7c2b868d31d70b3031a6ebe58430f76ec0b5f396851967fc8edf3ce7d898d%3Fconfig_name%3DLiNigori369&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2Fcmliu%2FACL4SSR%2Fmain%2FClash%2Fconfig%2FACL4SSR_Online.ini&emoji=true&list=false&xudp=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&new_name=true
