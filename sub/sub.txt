@@ -1,8 +1,9 @@
-https://sub.fqzsnai.ggff.net/auto
+#https://sub.fqzsnai.ggff.net/auto
+https://v1.mk/ifvZnYY
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/all_configs.txt
 https://raw.githubusercontent.com/nyeinkokoaung404/V2ray-Configs/main/Splitted-By-Protocol/vless.txt
 https://1821.nginx24ppy.xyz/link/kySLStKTpSimjajb?sub=3
-https://url.v1.mk/sub?target=v2ray&url=https%3A%2F%2Fys.jiedianxielou.workers.dev&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2Fcmliu%2FACL4SSR%2Fmain%2FClash%2Fconfig%2FACL4SSR_Online.ini&emoji=true&list=false&xudp=false&udp=false&tfo=false&expand=true&scv=false&fdn=false
+https://v1.mk/DW6xYsa
 #https://ys.jiedianxielou.workers.dev
 http://43.207.145.186:8080/clash/proxies
 https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.meta.yml
